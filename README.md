@@ -44,8 +44,11 @@ This project represents the collaborative effort of Team Powerpuffboys during th
 
 THE TEAM:
 Cafer Osman YILDIZ: https://www.linkedin.com/in/caferosman/
+
 Caner Mastan: https://www.linkedin.com/in/caner-mastan/
+
 Sena Karadag: https://www.linkedin.com/in/sena-karadag-7a066b21b/
+
 Huseyin Semih Kodalak: https://www.linkedin.com/in/h%C3%BCseyin-semih-kodalak-638720251/
 
 
