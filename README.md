@@ -1,4 +1,4 @@
-**Project: Optimizing Traffic Light Control at Intersections With AI**
+**AIMS: Optimizing Traffic Flow with AI-powered Intersection Management**
 
 
 This project, developed by Team Powerpuffboys during the 24-hour 2024-Nigde Smart Cities Artificial Intelligence Hackathon, proposes a solution to improve traffic flow at intersections. The project focuses on detecting approaching vehicles (and pedestrians) and estimating their arrival times to optimize traffic light sequencing.
