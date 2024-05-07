@@ -43,6 +43,7 @@ Team Powerpuffboys
 This project represents the collaborative effort of Team Powerpuffboys during the hackathon.
 
 THE TEAM:
+
 Cafer Osman YILDIZ: https://www.linkedin.com/in/caferosman/
 
 Caner Mastan: https://www.linkedin.com/in/caner-mastan/
