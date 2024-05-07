@@ -1,0 +1,10 @@
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+ctransformers
+sentence-transformers
+faiss-cpu
+chainlit
+huggingface-hub
