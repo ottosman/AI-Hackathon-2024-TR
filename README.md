@@ -9,24 +9,24 @@ Long waiting times at intersections and roundabouts can significantly impact tra
 
 Methodology
 
-    Data Collection and Labeling:
-        Traffic data was collected from a major intersection near Nevşehir University (Turkey).
-        The collected data was labeled for training a deep learning-based object detection algorithm | YoloX and Roboflow Supervision.
-        Due to limitations with large file sizes on GitHub, only a small sample of the labeled dataset is included.
+Data Collection and Labeling:
+    Traffic data was collected from a major intersection near Nevşehir University (Turkey).
+    The collected data was labeled for training a deep learning-based object detection algorithm | YoloX and Roboflow Supervision.
+    Due to limitations with large file sizes on GitHub, only a small sample of the labeled dataset is included.
 
-    Model Development:
-        Initial training with YOLO v8 yielded unsatisfactory results.
-        The team pivoted to a combined approach using YOLOx and Roboflow Supervision.
-        This approach leverages compatible labels for both algorithms, achieving promising results.
-        Deep learning model training files are provided in the repository.
+Model Development:
+    Initial training with YOLO v8 yielded unsatisfactory results.
+    The team pivoted to a combined approach using YOLOx and Roboflow Supervision.
+    This approach leverages compatible labels for both algorithms, achieving promising results.
+    Deep learning model training files are provided in the repository.
 
-    Mobile Application Development:
-        A mobile application was developed using React Native for user interaction.
-        PostgreSQL and SQLite databases manage application data.
-        A Java Spring Boot (version 17) backend supports server-side operations.
+Mobile Application Development:
+    A mobile application was developed using React Native for user interaction.
+    PostgreSQL and SQLite databases manage application data.
+    A Java Spring Boot (version 17) backend supports server-side operations.
 
-    Documentation and Presentation:
-        Project documentation and presentation materials are included in the repository, available in both English (EN) and Turkish (TR).
+Documentation and Presentation:
+    Project documentation and presentation materials are included in the repository, available in both English (EN) and Turkish (TR).
 
 Note: Due to time constraints, prediction algorithms could not be fully integrated into the project.
 
